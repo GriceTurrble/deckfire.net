@@ -1,5 +1,5 @@
 # DeckFire.net
-A site for creating and managing Magic decks, libraries, and proxies. Powered by Django, using latest Bootstrap and Angular, deployed on Heroku.
+A site for creating and managing Magic decks, libraries, and proxies. Powered by **Django 2.x** and **AngularJS**, using **Bootstrap** and **Material Design**, deployed on **Heroku**.
 
 ## Goals
 I've enjoyed making use of other sites like TappedOut and Deckbox.org for a lot of things related to Magic, but so much of the experience of other Magic sites is tied to the aftermarket, shopping, trading, wishlisting, and so on. I would like to get away from those influences and create something focused squarely on the cards one owns and plays with.
